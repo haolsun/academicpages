@@ -11,9 +11,9 @@ title                    : "Dr. Haoliang Sun"
 title_separator          : "-"
 name                     : &name "Haoliang Sun"
 description              : &description "Assistant Researcher at Nanjing University"
-url                      : https://haolsun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://haolsun.github.io/academicpages # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "haolsun.github.io/academicpages"
+repository               : "https://haolsun.github.io/academicpages"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
