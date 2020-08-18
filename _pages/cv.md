@@ -11,21 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in School of Software Engineering, Shandong University, 2014
+* Visiting Student in Western University, CA, 2016
+* Visiting Student in University of Wisconsin-Madison, USA, 2017-2019
+* Ph.D in School of Computer Science and Technology, Shandong University, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Research Internship
+  * Inception Institute of Artificial Intelligence (IIAI), UAE
+  * Supervisor: Prof. Ling Shao
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
