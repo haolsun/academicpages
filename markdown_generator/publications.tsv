@@ -1,0 +1,4 @@
+pub_date	title	venue	excerpt	citation	url_slug	paper_url
+2020/7/15	Learning to Learn Kernels with Variational Random Features	International Conference on Machine Learning (ICML)		 	 paper-title-number-1	 
+2019/10/27	DUAL-GLOW: Conditional Flow-Based Generative Model for Modality Transfer	IEEE International Conference on Computer Vision (ICCV)			paper-title-number-2	
+2019/9/25	Learning the Set Graphs: Image-Set Classification Using Sparse Graph Convolutional Networks	IEEE International Conference on Image Processing (ICIP)			paper-title-number-3	
